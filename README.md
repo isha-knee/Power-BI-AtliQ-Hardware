@@ -1,9 +1,11 @@
 # Power-BI-AtliQ-Hardware
 AtliQ Hardware Power BI Project
-# Project Overview: This Power BI project provides a visualization of AtliQ Hardwares' sales performance, including total revenue, profits earned, and the total number of orders processed during the period 2017–2020.
+# Project Overview: 
+This Power BI project provides a visualization of AtliQ Hardwares' sales performance, including total revenue, profits earned, and the total number of orders processed during the period 2017–2020.
 ## Key Features – 
 
-## Interactive Filters: Slicers, line charts, KPIs, Cards, and donut charts are used to display revenue generation, overall profits, and the total number of orders.
+## Interactive Filters: 
+Slicers, line charts, KPIs, Cards, and donut charts are used to display revenue generation, overall profits, and the total number of orders.
 
 ## Main Visuals Included: 
 1. **KPIs:** Displays the revenue generated over a three-year period, the total number of orders received, and the corresponding profits earned.
